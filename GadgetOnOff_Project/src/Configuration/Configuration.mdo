@@ -66,6 +66,7 @@
   <documents>Document.ПрайсЛист</documents>
   <enums>Enum.СтатусЗаказа</enums>
   <reports>Report.ОстаткиТоваров</reports>
+  <reports>Report.ВаловаяВыручка</reports>
   <informationRegisters>InformationRegister.УчетЦенНоменклатуры</informationRegisters>
   <accumulationRegisters>AccumulationRegister.ОстаткиНоменклатуры</accumulationRegisters>
 </mdclass:Configuration>
