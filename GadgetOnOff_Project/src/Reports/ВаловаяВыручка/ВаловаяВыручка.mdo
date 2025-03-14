@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="eceef31e-de49-4526-bb45-14ec4e9a3958">
+  <producedTypes>
+    <objectType typeId="4c77f89c-fe6a-4474-97bf-2fae4f773107" valueTypeId="ac104e79-968a-40cc-af4f-bbc6ef312a90"/>
+    <managerType typeId="11c393b7-3d39-4e04-94e2-cdb0a4a9c6d3" valueTypeId="9a50f639-ad78-4f1a-aac7-23483a357afa"/>
+  </producedTypes>
+  <name>ВаловаяВыручка</name>
+  <synonym>
+    <key>ru</key>
+    <value>Валовая выручка</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:Report>
